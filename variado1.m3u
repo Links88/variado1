@@ -1,9 +1,6 @@
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="habla ispana", LAT: VH1 SD
 http://bldtv.vip:80/live/samy/102030/65836.m3u8
 
-#EXTINF:-1,DEPORTES:SKY News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="habla ispana", LAT: UNIVERSAL CHANNEL SD
 http://bldtv.vip:80/live/samy/102030/65840.m3u8
 
